@@ -1,4 +1,10 @@
 Oasis infobyte 
 Java development
 Task 1 : Guessing game
+  responsible files:
+        Guess.class
+        Guess.java
 Task 2 : Atm interface
+  responsible files:
+        At.class
+        At.java
